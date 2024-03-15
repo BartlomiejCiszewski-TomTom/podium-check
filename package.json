@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "NextJS plugins for Podium Layout",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "pnpm --parallel dev"
   },
   "author": "Trygve Lie",
   "license": "MIT"
